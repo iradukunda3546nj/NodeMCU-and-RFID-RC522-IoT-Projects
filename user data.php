@@ -65,7 +65,7 @@
 	<body>
 		<h2>ACCESS WAVE CSTroll</h2>
 		<ul class="topnav">
-			<li><a href="home.php">Home</a></li>
+			<li><a href="index.php">Home</a></li>
 			<li><a class="active" href="user data.php">Student Data</a></li>
 			<li><a href="registration.php">Registration</a></li>
 			<li><a href="read tag.php">Read Student's Card</a></li>

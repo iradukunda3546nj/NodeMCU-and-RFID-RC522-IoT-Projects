@@ -84,7 +84,7 @@
 		<h2 style="color: blue;">ACCESS WAVE CSTroll</h2>
 		<h3 style="font-style: italic; color: olive;">"Invest in your mind, it pays the best interest." - Benjamin Franklin</h3>
 		<ul class="topnav">
-			<li><a class="active" href="home.php">Home</a></li>
+			<li><a class="active" href="index.php">Home</a></li>
 			<li><a href="user data.php">Student Data</a></li>
 			<li><a href="registration.php">Registration</a></li>
 			<li><a href="read tag.php">Student's Info</a></li>
